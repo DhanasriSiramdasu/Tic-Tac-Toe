@@ -125,8 +125,8 @@ This project is licensed under the MIT License.
 
 **Dhanasri Siramdasu**
 
-- 💼 GitHub: https://github.com/your-github-username
-- 📧 Email: your-email@example.com
+- 💼 GitHub: https://github.com/dhanasrisiramdasu
+- 📧 Email: siramdasudhanasri@gmail.com
 - 💻 Passionate about Full Stack Development, Java, AI, and Machine Learning.
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
